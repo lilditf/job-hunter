@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & Virtualenv
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Private Candidate Profile & Config
+candidate_profile.json
+config.json
+
+# Resumes, Documents & Media
+*.pdf
+*.docx
+*.doc
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Application History & Logs
+history_*.json
+history_lamaran.json
+*.log
+_jobshots/
+_arsip_otomasi.zip
+cache/
+.pytest_cache/
+
+# IDE & OS Files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

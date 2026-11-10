@@ -1,0 +1,109 @@
+{
+  "profile": {
+    "first_name": "Alex",
+    "last_name": "Pratama",
+    "full_name": "Alex Pratama",
+    "email": "alex.pratama@example.com",
+    "phone": "081234567890",
+    "headline": "Full-Stack Developer | Next.js · Laravel · TypeScript · REST API",
+    "domicile": {
+      "city": "Kota Bandung",
+      "district": "Kecamatan Coblong",
+      "province": "Jawa Barat",
+      "country": "Indonesia",
+      "willing_to_relocate": true,
+      "willing_to_wfo": true,
+      "prefer_hybrid": true
+    },
+    "education": {
+      "degree": "Sarjana (S1)",
+      "major": "Sistem Informasi",
+      "institution": "Universitas Negeri Contoh",
+      "graduation_year": 2024,
+      "gpa": "3.70"
+    },
+    "work_status": {
+      "current_status": "Freelance Software Developer",
+      "notice_period": "Immediately",
+      "total_years_it_experience": 2,
+      "current_salary_idr": 5000000,
+      "expected_salary_min_idr": 6000000,
+      "expected_salary_max_idr": 8000000,
+      "expected_salary_asean_myr": 4500
+    },
+    "languages": {
+      "Indonesian": "NATIVE",
+      "English": "PROFESSIONAL",
+      "Malay": "PROFESSIONAL"
+    },
+    "skills": {
+      "ADVANCED": [
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "Laravel",
+        "React",
+        "Next.js",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "REST API",
+        "MySQL",
+        "PostgreSQL",
+        "Git",
+        "Docker"
+      ],
+      "INTERMEDIATE": [
+        "Python",
+        "Express",
+        "Redis",
+        "Linux Administration",
+        "Automated Testing",
+        "Vue.js",
+        "GraphQL"
+      ],
+      "BASIC": [
+        "Java",
+        "TensorFlow",
+        "PyTorch",
+        "Go"
+      ],
+      "NO_EXPERIENCE": [
+        "C#",
+        ".NET",
+        "Flutter",
+        "Swift",
+        "Mandarin"
+      ]
+    },
+    "projects": [
+      {
+        "name": "CloudSaaS Platform",
+        "type": "Own Product / SaaS",
+        "url": "https://example-saas.com",
+        "tech_stack": ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Docker"],
+        "description": "Multi-tenant digital platform featuring automated subscription billing, webhook event processing, and 30+ relational data models."
+      },
+      {
+        "name": "Enterprise ERP System",
+        "type": "Client Project / Manufacturing",
+        "url": "https://example-erp.internal",
+        "tech_stack": ["Laravel", "PHP", "MySQL", "REST API", "Tailwind CSS"],
+        "description": "Operational ERP managing inventory, double-entry transactional accounting, and prepress order production flow with strict ACID compliance."
+      },
+      {
+        "name": "API Gateway & Router",
+        "type": "Client Project / Microservice",
+        "url": "https://api.example-router.com",
+        "tech_stack": ["Node.js", "Express", "Redis", "REST API"],
+        "description": "High-throughput reverse proxy with dynamic token-bucket rate limiting, quota deduction, and HMAC signature verification."
+      }
+    ],
+    "portfolio_urls": [
+      "https://alexpratama.dev"
+    ],
+    "resume_filename": "resume_alex_pratama.pdf",
+    "photo_filename": "profile_photo.jpg"
+  }
+}

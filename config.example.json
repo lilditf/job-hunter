@@ -1,0 +1,30 @@
+{
+  "browser": {
+    "cdp_url": "http://127.0.0.1:9222",
+    "timeout": 30,
+    "viewport_width": 1280,
+    "viewport_height": 900
+  },
+  "ai": {
+    "provider": "9router",
+    "base_url": "http://localhost:20128/v1",
+    "api_key": "sk_9router",
+    "model_fast": "ag/gemini-3.8-flash-low",
+    "model_creative": "ag/claude-sonnet-5-5-low",
+    "timeout_seconds": 45,
+    "temperature": 0.2
+  },
+  "rules": {
+    "min_salary_idr": 4000000,
+    "skip_certifications": [
+      "CCNA",
+      "CCNP",
+      "AWS Certified",
+      "CEH",
+      "CISSP",
+      "Palo Alto"
+    ],
+    "prefer_hybrid": true,
+    "max_applications_per_batch": 10
+  }
+}
